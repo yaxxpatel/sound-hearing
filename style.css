@@ -1,0 +1,25 @@
+body
+{
+  font-family: 'Akaya Telivigala', cursive;
+  background: #E2E8DD;
+}
+
+.header_div
+  {
+  background: #95A3A4;
+  color: white; 
+  }
+
+  .header_div p{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
